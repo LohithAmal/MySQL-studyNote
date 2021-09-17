@@ -41,4 +41,5 @@
    - relations
    - data distributed across multiple tables.
    - Horizontal scaling is difficult/impossible; Vertical scaling is possible
+   - limitation for lots of read & write queries per second.
 
